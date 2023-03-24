@@ -3,6 +3,9 @@ Pinagem de versão genérica do Bluepill, com ajustes, quando montado com varia�
 
 ![BluePill-C6!](bluepill-c6.png "Bluepill STM32F103C6T6")
 
+Erratas comuns
+
+Pin41 - PB5 - SMBAI1 - MOSI1 -**T3C2**   (muitos trazem T2C2 nesse pino)    
 
 ### Referência
 - (ST)[https://www.st.com/en/microcontrollers-microprocessors/stm32f103c6.html]
